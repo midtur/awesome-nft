@@ -366,6 +366,7 @@ Table of contents
 ## **Discovery**
 
 * [NonFungible](https://nonfungible.com/)
+* [CryptoSlam](https://www.cryptoslam.io)
 
 ## **Generators**
 
